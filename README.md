@@ -34,7 +34,4 @@
 
 ###
 
-### 🐍 GitHub Snake
-<div align="center">
-  <img src="https://github.com/Sampie1/Sampie1/blob/output/github-contribution-grid-snake.svg" />
-</div>
+
